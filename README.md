@@ -7,7 +7,7 @@ Simple AnimatedWidgets example
 ## Run
 ```
 $ open -a simulator
-$ cd fanimation
+$ cd funimation
 $ flutter run
 ```
 
