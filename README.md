@@ -1,16 +1,14 @@
-# fanimation
+# How to launch a rocket with Flutter animation
 
-A new Flutter project.
+Simple AnimatedWidgets example
 
-## Getting Started
+![Flutter animation](https://media.giphy.com/media/TFwQjNabr5t1M8P3t1/giphy.gif)
 
-This project is a starting point for a Flutter application.
+## Run
+```
+$ open -a simulator
+$ cd fanimation
+$ flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
